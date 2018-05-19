@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    font-size: 18px;
+}
+
+header{
+    background: #ebebeb;
+    width: 100px;
+    margin-bottom: 20px
+    
+}
+
+nav{
+    background: #ebebeb
+
+}
+
+section{
+    background: #ebebeb;
+    margin-bottom: 20px;
+    padding: 20px;
+    
+}
+
+aside{
+    background: #ebebeb;
+    width: 33.3%;
+}
+
+footer{
+    background: #ebebeb;
+    width: 33.3;
+}
+
+article{
+    color: #ebebeb;
+    background: #777;
+    width: 33.3%; 
+}
+
+h1{
+    color: #777;
+    background: #ebebeb;
+    width: 33.3%;
+}
+
+.section{
+    padding: 10px;
+    clear: left;
+    margin: 20px 1%;
+    height: 140px;
+}
+
+.container{
+    text-align: center;
+    margin: 10%;
+
+}
+
+
+
+
+
+
+
+
